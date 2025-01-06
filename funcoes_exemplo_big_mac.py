@@ -10,7 +10,6 @@ def prepara_refri(sabor,tamanho):
 #fazer_big_mac("Gleyson")
 #fazer_big_mac("Flávio")
 #fazer_big_mac("Rosangela")
-
 #fazer_big_mac("Gleyson")
 #fazer_batata("Grande")
 #prepara_refri("Guaraná","Grande")
