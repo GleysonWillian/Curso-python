@@ -20,3 +20,4 @@ def fazer_combo_big_mac(nome, tamanho_batata, tipo_refri, tamanho_refri):
     prepara_refri(tipo_refri, tamanho_refri)
 
 fazer_combo_big_mac(f"Nome do pedido: ", "Grande", "Guaraná", "Médio")
+
